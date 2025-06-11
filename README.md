@@ -26,10 +26,6 @@ Filename | Description
 [4. additional resources.md](</.instructions/4. additional resources.md>) | Additional resources for participants to explore after the workshop.
 
 
-## Running a workshop?
-
-If you're planning to run a GitHub Copilot workshop, please review the [workshop guide](</.instructions/workshop organisers.md>) for tips and tricks to help you run a successful workshop. 
-
 
 ## Project Structure
 
